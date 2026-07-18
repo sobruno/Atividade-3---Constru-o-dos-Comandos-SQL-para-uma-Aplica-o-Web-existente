@@ -23,8 +23,6 @@ O diagrama relacional do sistema está disponível na pasta de imagens do projet
 
 ## Dicionário de Dados
 
-## 3. Dicionário de Dados
-
 --- 
 **Tabela** : USUARIO
 
