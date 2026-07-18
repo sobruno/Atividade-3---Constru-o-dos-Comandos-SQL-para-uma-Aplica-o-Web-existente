@@ -17,7 +17,7 @@
 O diagrama relacional do sistema está disponível na pasta de imagens do projeto.
 
 **Link da pasta de imagens:**
-![Diagrama relacional](imgs/relacional.png)
+![Diagrama relacional](relacional.png)
 
 ---
 
